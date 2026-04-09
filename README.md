@@ -2,7 +2,7 @@
 Console.WriteLine("Gabriel Henrique 🚀");
 ```
 
-🎯 Desenvolvedor focado em backend  
+🎯 Desenvolvedor focado em back-end  
 
 ---
 
