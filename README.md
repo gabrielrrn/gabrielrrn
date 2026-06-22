@@ -1,5 +1,5 @@
 ```csharp
-("Gabriel Henrique 🚀");
+Gabriel Henrique 🚀
 ```
 
 🎯 Desenvolvedor focado em back-end  
