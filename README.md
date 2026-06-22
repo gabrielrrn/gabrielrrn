@@ -1,5 +1,5 @@
 ```csharp
-Console.WriteLine("Gabriel Henrique 🚀");
+("Gabriel Henrique 🚀");
 ```
 
 🎯 Desenvolvedor focado em back-end  
